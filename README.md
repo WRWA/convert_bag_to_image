@@ -1,4 +1,4 @@
-# pyrealsense_utils
+# Convert .bag file to images using pyrealsense2
 
 Before execution, make sure `pyrealsense2` is installed.  
 To save all frames recorded in bag file,
