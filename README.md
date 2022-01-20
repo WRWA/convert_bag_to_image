@@ -1,5 +1,8 @@
 # pyrealsense_utils
 
+Before execution, make sure `pyrealsense2` is installed.
+To save all frames recorded in bag file,
+
 ```
 # in terminal
 mkdir image
